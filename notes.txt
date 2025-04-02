@@ -1,0 +1,8 @@
+Prelims, Midterm, Semi-finals, Finals
+
+every month will be change this base of the starting of the classes
+
+<span id="quarter">Prelim</span>
+
+put a label where i input my starting date of classes of each semester so that can change the Prelims, Midterm, Semi-finals, Finals base on this, create a javascript function
+
